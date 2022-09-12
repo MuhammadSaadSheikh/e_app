@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assest/Fonts/Merriweather-Black.ttf",
+      "sha1": "d62fa43472ef4248e8b447a0ff0ab283e0475448"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-BlackItalic.ttf",
+      "sha1": "555c92ba0bdddd8d3f9314c9e921e44ec55655ed"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-Bold.ttf",
+      "sha1": "09c7429408c624b9991c44e9975a9129fb2d2fe7"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-BoldItalic.ttf",
+      "sha1": "2207b710d19eb9d57c6707eb5ba3938e4b3ec7b1"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-Italic.ttf",
+      "sha1": "478b1c3fbc794a290270be7e4ec052e14a89579d"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-Light.ttf",
+      "sha1": "74d9f537010e5ac0ffe25990d1433873d98c9339"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-LightItalic.ttf",
+      "sha1": "b79c74969d524acbf8ab3df59562b2db83450002"
+    },
+    {
+      "path": "src/assest/Fonts/Merriweather-Regular.ttf",
+      "sha1": "f4e7810e4e20d1932d3d7994bb6f6456280ee6bd"
+    },
+    {
+      "path": "src/assest/Fonts/QuattrocentoSans-Bold.ttf",
+      "sha1": "5a213ad3b5a97ead252e886bbbe5fd3603a3dbfa"
+    },
+    {
+      "path": "src/assest/Fonts/QuattrocentoSans-BoldItalic.ttf",
+      "sha1": "9bcfa1ab958c0f7a29760b87bd513568a3c7353d"
+    },
+    {
+      "path": "src/assest/Fonts/QuattrocentoSans-Italic.ttf",
+      "sha1": "ddcd693a6f53cbb37f8a392e0084b4aedfc64e4a"
+    },
+    {
+      "path": "src/assest/Fonts/QuattrocentoSans-Regular.ttf",
+      "sha1": "274fd0af6bd02268e82ea93ee41b07200b3d1c20"
+    },
+    {
+      "path": "src/assest/Fonts/RobotoMono-Italic-VariableFont_wght.ttf",
+      "sha1": "6e234752556acf6455dcc9c0768bb20b03132aa9"
+    },
+    {
+      "path": "src/assest/Fonts/RobotoMono-VariableFont_wght.ttf",
+      "sha1": "4c4b222617ecdda163e01a88c191ab0a50c336cf"
+    }
+  ]
+}
