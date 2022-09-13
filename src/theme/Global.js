@@ -1,9 +1,13 @@
 import {StyleSheet} from 'react-native';
 
+//Theme
+import {Colors} from './index';
+
 const globalStyle = StyleSheet.create({
   mainContainer: {
     flex: 1,
-    backgroundColor: '#E8E8E8',
+    backgroundColor: Colors.whiteColor,
+    backgroundColor: 'red',
   },
 });
 
